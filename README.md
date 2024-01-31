@@ -18,7 +18,7 @@ This guide illustrates the configuration of osTicket, a robust ticketing system,
 <p>
 After installing osTicket, the next phase involves essential configurations to transform it into an effective ticketing system. It's important to note that I'll switch between the Admin and Agent panels, as each panel offers different configurations. To distinguish between them, look at the top right corner of the osTicket screen. If it reads "Agent Panel," I'm using the Admin panel, and vice versa.
 
-![image](https://github.com/itnatepena/post-install-config/assets/147539410/d156d596-cbe2-45b6-aed2-3fce62e7dba6)
+![image](https://github.com/Jovan281196/post-install-config/assets/147539410/d156d596-cbe2-45b6-aed2-3fce62e7dba6)
 
 </p>
 
